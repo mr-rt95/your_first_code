@@ -1,4 +1,4 @@
-int main()
+int main(void)
 {
     for (int i = 0; i < 32; i++)
     {
@@ -6,3 +6,4 @@ int main()
     }
     return (0);
 }
+
