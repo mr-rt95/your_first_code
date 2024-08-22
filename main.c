@@ -1,6 +1,4 @@
-#include <stdio.h>
-
-int main(void)
+int main()
 {
     for (int i = 0; i < 32; i++)
     {
@@ -8,4 +6,3 @@ int main(void)
     }
     return (0);
 }
-
